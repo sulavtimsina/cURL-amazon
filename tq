@@ -1,0 +1,106 @@
+warning: LF will be replaced by CRLF in .idea/workspace.xml.
+The file will have its original line endings in your working directory.
+[1mdiff --git a/.idea/workspace.xml b/.idea/workspace.xml[m
+[1mindex af1ca52..9e70ace 100644[m
+[1m--- a/.idea/workspace.xml[m
+[1m+++ b/.idea/workspace.xml[m
+[36m@@ -1,7 +1,11 @@[m
+ <?xml version="1.0" encoding="UTF-8"?>[m
+ <project version="4">[m
+   <component name="ChangeListManager">[m
+[31m-    <list default="true" id="9fa237e2-116c-455b-8598-af323b02c1d1" name="Default" comment="" />[m
+[32m+[m[32m    <list default="true" id="9fa237e2-116c-455b-8598-af323b02c1d1" name="Default" comment="">[m
+[32m+[m[32m      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />[m
+[32m+[m[32m      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />[m
+[32m+[m[32m      <change beforePath="$PROJECT_DIR$/curlFile.php" afterPath="$PROJECT_DIR$/curlFile.php" />[m
+[32m+[m[32m    </list>[m
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />[m
+     <option name="TRACKING_ENABLED" value="true" />[m
+     <option name="SHOW_DIALOG" value="false" />[m
+[36m@@ -14,10 +18,10 @@[m
+       <file leaf-file-name="curlFile.php" pinned="false" current-in-tab="true">[m
+         <entry file="file://$PROJECT_DIR$/curlFile.php">[m
+           <provider selected="true" editor-type-id="text-editor">[m
+[31m-            <state relative-caret-position="425">[m
+[31m-              <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />[m
+[32m+[m[32m            <state relative-caret-position="374">[m
+[32m+[m[32m              <caret line="22" column="57" lean-forward="true" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />[m
+               <folding>[m
+[31m-                <marker date="1522442759764" expanded="true" signature="700:731" ph="..." />[m
+[32m+[m[32m                <marker date="1522445072890" expanded="true" signature="879:910" ph="..." />[m
+               </folding>[m
+             </state>[m
+           </provider>[m
+[36m@@ -35,6 +39,9 @@[m
+       </file>[m
+     </leaf>[m
+   </component>[m
+[32m+[m[32m  <component name="Git.Settings">[m
+[32m+[m[32m    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />[m
+[32m+[m[32m  </component>[m
+   <component name="IdeDocumentHistory">[m
+     <option name="CHANGED_PATHS">[m
+       <list>[m
+[36m@@ -56,6 +63,7 @@[m
+     <option name="width" value="1936" />[m
+     <option name="height" value="1056" />[m
+   </component>[m
+[32m+[m[32m  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />[m
+   <component name="ProjectView">[m
+     <navigator currentView="ProjectPane" proportions="" version="1">[m
+       <flattenPackages />[m
+[36m@@ -117,12 +125,12 @@[m
+       <option name="presentableId" value="Default" />[m
+       <updated>1522429529128</updated>[m
+       <workItem from="1522429530353" duration="607000" />[m
+[31m-      <workItem from="1522430512156" duration="5238000" />[m
+[32m+[m[32m      <workItem from="1522430512156" duration="5656000" />[m
+     </task>[m
+     <servers />[m
+   </component>[m
+   <component name="TimeTrackingManager">[m
+[31m-    <option name="totallyTimeSpent" value="5845000" />[m
+[32m+[m[32m    <option name="totallyTimeSpent" value="6263000" />[m
+   </component>[m
+   <component name="ToolWindowManager">[m
+     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />[m
+[36m@@ -135,7 +143,7 @@[m
+       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />[m
+       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />[m
+       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />[m
+[31m-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />[m
+[32m+[m[32m      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />[m
+       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />[m
+       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />[m
+       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />[m
+[36m@@ -170,10 +178,10 @@[m
+     </entry>[m
+     <entry file="file://$PROJECT_DIR$/curlFile.php">[m
+       <provider selected="true" editor-type-id="text-editor">[m
+[31m-        <state relative-caret-position="425">[m
+[31m-          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />[m
+[32m+[m[32m        <state relative-caret-position="374">[m
+[32m+[m[32m          <caret line="22" column="57" lean-forward="true" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />[m
+           <folding>[m
+[31m-            <marker date="1522442759764" expanded="true" signature="700:731" ph="..." />[m
+[32m+[m[32m            <marker date="1522445072890" expanded="true" signature="879:910" ph="..." />[m
+           </folding>[m
+         </state>[m
+       </provider>[m
+[1mdiff --git a/curlFile.php b/curlFile.php[m
+[1mindex f9a0928..11271a5 100644[m
+[1m--- a/curlFile.php[m
+[1m+++ b/curlFile.php[m
+[36m@@ -13,10 +13,12 @@[m [mcurl_setopt($curl, CURLOPT_COOKIE, true);[m
+ $result = curl_exec($curl);[m
+ /*After we get the result, which is the html file, we try to get the url of all images*/[m
+ [m
+[32m+[m[32m/*This pattern is fetched by doing "Inspect Element" and finding out that images for this search keyword is in this format*/[m
+ preg_match_all('/https:\/\/images-na.ssl-images-amazon.com\/images\/I\/[^\s]*?._AC_US200_.jpg/', $result, $matches);[m
+ [m
+ $images = array_values(array_unique($matches[0]));[m
+ [m
+[32m+[m[32m/*Formating the images to display them in html page*/[m
+ for($i = 0; $i < count($images); $i++){[m
+     echo "<div style='float: left; margin: 10 0 0 0; '>";[m
+     echo "<img src='$images[$i]'><br />'";[m
